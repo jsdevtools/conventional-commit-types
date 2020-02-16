@@ -43,6 +43,10 @@
     "revert": {
       "description": "Reverts a previous commit",
       "title": "Reverts"
+    },
+    "placeholder": {
+      "description": "Placeholder",
+      "title": "Placeholder"
     }
   }
 }

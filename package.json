@@ -1,17 +1,17 @@
 {
-  "name": "conventional-commit-types",
-  "version": "3.0.0",
-  "description": "List of conventional commit types.",
+  "name": "@jsdt/conventional-commit-types",
+  "version": "0.1.4",
+  "description": "Fork of conventional-commit-types, see https://github.com/commitizen/conventional-commit-types.git",
   "main": "index.json",
   "scripts": {
     "test": "json -f index.json"
   },
   "keywords": [],
-  "author": "Anders D. Johnson",
+  "author": "Justin@JSDevTools.com, origina work by Anders D. Johnson",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/commitizen/conventional-commit-types.git"
+    "url": "https://github.com/jsdevtools/conventional-commit-types.git"
   },
   "devDependencies": {
     "json": "^9.0.4"
